@@ -8,7 +8,7 @@ The project is implemented and tested on macOS.
 
 ## MAKE COMMANDS
 
-Use Makefile located in root directory.<br>
+Use Makefile located in root directory.<br></br>
 make install: install the application in build directory<br>
 make uninstall: remove the application<br>
 make run: run the application<br>
